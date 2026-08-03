@@ -1,0 +1,84 @@
+{
+    "tvshow":[
+  {
+    "id": 1,
+    "title": "Karthika Deepam",
+    "poster": "https://th.bing.com/th/id/OIP.kTfByrzC4hx5c6gA5Qjk0QHaEo?w=254&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3",
+    "language": "Telugu",
+    "genre": "Family Drama",
+    "channel": "Star Maa"
+  },
+  {
+    "id": 2,
+    "title": "Guppedantha Manasu",
+    "poster": "https://th.bing.com/th/id/OIP.hI_PHLlqwZWS-yu7wSRTCgHaEK?w=318&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3",
+    "language": "Telugu",
+    "genre": "Romance Drama",
+    "channel": "Star Maa"
+  },
+  {
+    "id": 3,
+    "title": "Brahmamudi",
+    "poster": "https://th.bing.com/th/id/OIP.DdRc79KSAlYwFkSsZb4CeAAAAA?w=283&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3",
+    "language": "Telugu",
+    "genre": "Family Drama",
+    "channel": "Star Maa"
+  },
+  {
+    "id": 4,
+    "title": "Trinayani",
+    "poster": "https://th.bing.com/th/id/OIP.5YvgmPYmf6ifurI4RJQXTQHaEK?w=277&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3",
+    "language": "Telugu",
+    "genre": "Fantasy Drama",
+    "channel": "Zee Telugu"
+  },
+  {
+    "id": 5,
+    "title": "Prema Entha Madhuram",
+    "poster": "https://th.bing.com/th/id/OIP.7IvRnqVBW7cOWVM45MqJxwHaEB?w=290&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3",
+    "language": "Telugu",
+    "genre": "Romance",
+    "channel": "Zee Telugu"
+  },
+  {
+    "id": 6,
+    "title": "Intinti Gruhalakshmi",
+    "poster": "https://th.bing.com/th/id/OIP.Kzo2PVNNyo2UKaQHlsAqGAHaEA?w=292&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3",
+    "language": "Telugu",
+    "genre": "Family Drama",
+    "channel": "Zee Telugu"
+  },
+  {
+    "id": 7,
+    "title": "Sundari",
+    "poster": "https://th.bing.com/th/id/OIP.2HcOKjjjEfxRgbCHEHpKjAHaEK?w=281&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3",
+    "language": "Telugu",
+    "genre": "Drama",
+    "channel": "Star Maa"
+  },
+  {
+    "id": 8,
+    "title": "Radhamma Kuthuru",
+    "poster": "https://th.bing.com/th/id/OIP.BPv-4o_nuSeorQInt7pOtgHaEK?w=271&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3",
+    "language": "Telugu",
+    "genre": "Family Drama",
+    "channel": "Zee Telugu"
+  },
+  {
+    "id": 9,
+    "title": "Nindu Noorella Saavasam",
+    "poster": "https://th.bing.com/th/id/OIP.yl9hxIloxANWZ8xXEEtffAHaDt?w=338&h=175&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3",
+    "language": "Telugu",
+    "genre": "Fantasy",
+    "channel": "Zee Telugu"
+  },
+  {
+    "id": 10,
+    "title": "Mukkupudaka",
+    "poster": "https://th.bing.com/th/id/OIP.OIg3V-xDsJ0uf_KSIMBSXwHaEK?w=277&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3",
+    "language": "Telugu",
+    "genre": "Drama",
+    "channel": "Zee Telugu"
+  }
+]
+}
