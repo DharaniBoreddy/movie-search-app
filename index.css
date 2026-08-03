@@ -1,0 +1,25 @@
+.v {
+  width:300px;
+  
+  border:1px solid black; 
+}
+
+.s{
+  display:flex;
+  width:1500px;
+  animation:move 10s infinite;
+}
+
+.s img {
+  width:1450px;
+  height:500px;
+  flex-shrink:0;
+}
+
+@keyframes move {
+  0%,20% {transform:translateX(0);}
+  25%,40% {transform:translateX(-1500px);}
+  45%,60% {transform:translateX(-2900px);}
+  65%,80% {transform: translateX(-4300px);}
+  85%,100% {transform: translateX(-5800px);}
+}
