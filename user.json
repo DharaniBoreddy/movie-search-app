@@ -1,0 +1,51 @@
+{
+  "user": [
+    {
+      "name": "Boreddy Dharani",
+      "email": "boreddy.bdr@gmail.com",
+      "password": "dharani",
+      "id": "LgJeML1vjuc"
+    },
+    {
+      "fname": "Dharani",
+      "lname": "Boreddy",
+      "age": 0,
+      "gender": "",
+      "email": "boreddy.bdr@gmail.coms",
+      "password": "hvuk",
+      "npassword": "jhvguy",
+      "id": "rvV4RnBayno"
+    },
+    {
+      "fname": "boreddy",
+      "lname": "dharani",
+      "age": 0,
+      "gender": "",
+      "email": "boreddy.bdr@gmail.com",
+      "password": "ooo",
+      "npassword": "ooo",
+      "id": "UZfQEQlVzMk"
+    },
+    {
+      "fname": "Dharani",
+      "lname": "Boreddy",
+      "age": 0,
+      "gender": "",
+      "email": "boreddy.bdr@gmail.com",
+      "password": "kjca",
+      "npassword": "jacr h",
+      "id": "vsifiK7v_6M"
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "age": 0,
+      "gender": "",
+      "email": "",
+      "password": "",
+      "npassword": "",
+      "id": "YBDGXtI4PFQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
