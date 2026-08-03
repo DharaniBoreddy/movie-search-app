@@ -1,0 +1,164 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Avatar: The Way of Water",
+      "year": 2022,
+      "genre": "Action Adventure Fantasy",
+      "poster": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "trailer": "https://www.youtube.com/watch?v=d9MyW72ELq0"
+    },
+    {
+      "id": 2,
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "genre": "Action Sci-Fi",
+      "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+      "trailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c"
+    },
+    {
+      "id": 3,
+      "title": "Spider-Man: No Way Home",
+      "year": 2021,
+      "genre": "Action Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "trailer": "https://www.youtube.com/watch?v=JfVOs4VSpmA"
+    },
+    {
+      "id": 4,
+      "title": "The Batman",
+      "year": 2022,
+      "genre": "Action Crime",
+      "poster": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "trailer": "https://www.youtube.com/watch?v=mqqft2x_Aa4"
+    },
+    {
+      "id": 5,
+      "title": "Joker",
+      "year": 2019,
+      "genre": "Crime Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "trailer": "https://www.youtube.com/watch?v=zAGVQLHvwOY"
+    },
+    {
+      "id": 6,
+      "title": "Interstellar",
+      "year": 2014,
+      "genre": "Sci-Fi Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+    },
+    {
+      "id": 7,
+      "title": "Inception",
+      "year": 2010,
+      "genre": "Action Sci-Fi",
+      "poster": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+      "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0"
+    },
+    {
+      "id": 8,
+      "title": "Dune",
+      "year": 2021,
+      "genre": "Adventure Sci-Fi",
+      "poster": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "trailer": "https://www.youtube.com/watch?v=8g18jFHCLXk"
+    },
+    {
+      "id": 9,
+      "title": "Black Panther",
+      "year": 2018,
+      "genre": "Action Fantasy",
+      "poster": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "trailer": "https://www.youtube.com/watch?v=xjDjIWPwcPU"
+    },
+    {
+      "id": 10,
+      "title": "Iron Man",
+      "year": 2008,
+      "genre": "Action Sci-Fi",
+      "poster": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "trailer": "https://www.youtube.com/watch?v=8ugaeA-nMTc"
+    },
+    {
+      "id": 11,
+      "title": "Bahubali: The Beginning",
+      "year": 2015,
+      "genre": "Action Fantasy",
+      "poster": "https://image.tmdb.org/t/p/w500/9BAjt8nSSms62uOVYn1t3C3dVto.jpg",
+      "trailer": "https://www.youtube.com/watch?v=sOEg_YZQsTI"
+    },
+    {
+      "id": 12,
+      "title": "RRR",
+      "year": 2022,
+      "genre": "Action Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/nEufeZlyAOLqO2brrs0yeF1lgXO.jpg",
+      "trailer": "https://www.youtube.com/watch?v=NgBoMJy386M"
+    },
+    {
+      "id": 13,
+      "title": "KGF Chapter 2",
+      "year": 2022,
+      "genre": "Action",
+      "poster": "https://th.bing.com/th/id/OIP.ZkJwImEI3oISrizAVPOeaAHaEK?w=248&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3",
+      "trailer": "https://www.youtube.com/watch?v=JKa05nyUmuQ"
+    },
+    {
+      "id": 14,
+      "title": "Pushpa: The Rise",
+      "year": 2021,
+      "genre": "Action Drama",
+      "poster": "https://th.bing.com/th/id/OIP.YeeQ2lSRGk2jxjVd6WYrCAHaEK?w=280&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3",
+      "trailer": "https://www.youtube.com/watch?v=Q1NKMPhP8PY"
+    },
+    {
+      "id": 15,
+      "title": "Doctor Strange",
+      "year": 2016,
+      "genre": "Fantasy Action",
+      "poster": "https://th.bing.com/th/id/OIP.1lNnbbdCZo3tozmSctQzVAHaEu?w=277&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3",
+      "trailer": "https://www.youtube.com/watch?v=HSzx-zryEgM"
+    },
+    {
+      "id": 16,
+      "title": "Thor: Ragnarok",
+      "year": 2017,
+      "genre": "Action Fantasy",
+      "poster": "https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "trailer": "https://www.youtube.com/watch?v=ue80QwXMRHg"
+    },
+    {
+      "id": 17,
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "genre": "Sci-Fi Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "trailer": "https://www.youtube.com/watch?v=d96cjJhvlMA"
+    },
+    {
+      "id": 18,
+      "title": "Titanic",
+      "year": 1997,
+      "genre": "Romance Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "trailer": "https://www.youtube.com/watch?v=kVrqfYjkTdQ"
+    },
+    {
+      "id": 19,
+      "title": "The Lion King",
+      "year": 2019,
+      "genre": "Animation Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+      "trailer": "https://www.youtube.com/watch?v=7TavVZMewpY"
+    },
+    {
+      "id": 20,
+      "title": "Frozen II",
+      "year": 2019,
+      "genre": "Animation Fantasy",
+      "poster": "https://image.tmdb.org/t/p/w500/qdfARIhgpgZOBh3vfNhWS4hmSo3.jpg",
+      "trailer": "https://www.youtube.com/watch?v=Zi4LMpSDccc"
+    }
+  ]
+}
